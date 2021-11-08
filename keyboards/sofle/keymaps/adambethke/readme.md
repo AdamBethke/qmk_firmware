@@ -8,9 +8,8 @@ Based on the default keymap, with adjustments to make my workflow easier. Layout
 
 Changes:
 
-- Swaps LHS tab/shift keys
 - Moves all function keys to top row of `[_LOWER]`
 - RHS is master (USB-C plug in on RHS)
 - Encoders:
   - RHS encoder is previous track / next track (push is play/pause)
-  - Tweaks encoder resolutions
+  - Tweaks encoder resolutions, each click of the encoder does one action instead of 2
